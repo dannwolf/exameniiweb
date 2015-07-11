@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>TABLAS DE MULTIPLICAR</title>
 	<style type="text/css">
-	    h1{
+	    h2{
 	    	text-align:center;
 	    }
 		body {
