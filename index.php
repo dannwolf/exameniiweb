@@ -4,6 +4,9 @@
 	<meta charset="utf-8">
 	<title>TABLAS DE MULTIPLICAR</title>
 	<style type="text/css">
+	    h1{
+	    	text-align:center;
+	    }
 		body {
 			background-color:lightsalmon;
 		}
